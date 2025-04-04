@@ -1,0 +1,27 @@
+1. Office Manager can register new Dentists into the system.
+
+2. Dentist has a unique ID, first name, last name, phone number, email, and specialization.
+
+3. Office Manager can enroll new Patients into the system.
+
+4. Patient has a first name, last name, phone number, email, mailing address, and date of birth.
+
+5. Patients can request appointments either by phone or an online form.
+
+6. The Office Manager can book appointments for patients and send email confirmations.
+
+8. Dentists can sign in to view a list of their upcoming appointments with patients details.
+
+9. Each appointment is normally made for a specific date and time and the dentist is expected to see/treat the patient at one of ADS’s surgery locations
+
+9. Each appointment displays the associated patient details.
+
+10. Surgeries have a name, address, and phone number.
+
+11. Patients can sign in to view their scheduled appointments with dentists information.
+
+12. Patients can request to cancel or change their appointments.
+
+13. Dentists cannot have more than 5 appointments in any given week.
+
+14. Patients with unpaid bills cannot request new appointments.
